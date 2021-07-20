@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/800px-TV_Di%C3%A1rio_logo.svg.png" group-title="Brasil", TV Diário (CE)
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZaa_-N3atHKM7WKk4pr3_Z8)/dm/3/x7txn7q/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="Brasil", TV Aracati (CE)
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png" group-title="Brasil", RDC TV (RS)
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w747208672.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/s0/Screenshot_2020-06-02-18-28-37.png" group-title="Brasil", Rede Manchete - Web TV
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1452438722.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e5/50/82/e55082127903390364373431eb1500a8.jpg" group-title="Brasil", TV Caravelas (MG)
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w598517906.m3u8
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio142908_1587726962.jpg" group-title="Brasil", TV Liberdade (CE)
+http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w607673406.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mK4wWcP-YM8/XREgV_mPt2I/AAAAAAAABNQ/NVYjIgc4zlcR8lTDSJF8LsaD2mNhTr9LwCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-24-15-06-44.png" group-title="Brasil", TV Pantanal (MS)
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/chunklist_w512707905.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvcine.net/admin/assets/img/logo.png" group-title="Brasil", TV Cine
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1793635189.m3u8

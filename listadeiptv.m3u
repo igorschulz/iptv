@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/800px-TV_Di%C3%A1rio_logo.svg.png" group-title="Brasil", TV Diário (CE)
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZaa_-N3atHKM7WKk4pr3_Z8)/dm/3/x7txn7q/s/live-3.m3u8
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="Brasil", TV Aracati (CE)
-https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png" group-title="Brasil", RDC TV (RS)
-https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w747208672.m3u8
